@@ -14,3 +14,5 @@ Task: PR to fix issue
 
 Please minimize change and do not include linter changes such as changing quotes.
 A one line change is ok and indeed preferred!
+
+.env has info and you can use 6@6.com 666666 for a login
